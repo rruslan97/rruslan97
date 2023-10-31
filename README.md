@@ -35,12 +35,12 @@ Here are some ideas to get you started:
       <a href="#rr">
         <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="36" height="36" alt="typescript" />
       </a>
-      <br>typescript
+<!--       <br>typescript
     </td>
         <td align="center" width="110" height="90">
       <a href="#rr">
         <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/html5/html5-original.svg" width="36" height="36" alt="Html5" />
-      </a>
+      </a> -->
       <br>Html5
     </td>
          <td align="center" width="110" height="90"> 
@@ -121,7 +121,7 @@ Here are some ideas to get you started:
     </td>
      <td align="center" width="110" height="90">
       <a href="#rr" >
-        <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" />
+<!--         <img src="https://raw.githubusercontent.com/samfromaway/samfromaway/master/.github/images/nextjs.png" width="36" height="36" alt="Next JS" /> -->
       </a>
 </table>
 
